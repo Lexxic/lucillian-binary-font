@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<font>
+<format>2.4</format>
+<program version="2.32.3" os="*nix" />
+
+<postscript_name>lbinary</postscript_name>
+<name>Lucillian Binary</name>
+<subfamily>Regular</subfamily>
+<bold>false</bold>
+<italic>false</italic>
+<full_name>Lucillian Binary</full_name>
+<unique_identifier>lbinary</unique_identifier>
+<version>Version 1.1</version>
+<description></description>
+<copyright></copyright>
+<license></license>
+<license_url></license_url>
+<weight>400</weight>
+<italic_angle>0</italic_angle>
+<units_per_em>1024</units_per_em>
+<trademark></trademark>
+<manufacturer></manufacturer>
+<designer></designer>
+<vendor_url></vendor_url>
+<designer_url></designer_url>
+
+<horizontal>
+	<top_limit>84</top_limit>
+	<top_position>72</top_position>
+	<x-height>56</x-height>
+	<base_line>0</base_line>
+	<bottom_position>-20</bottom_position>
+	<bottom_limit>-27</bottom_limit>
+</horizontal>
+
+<grid width="1.0000"/>
+<grid width="2.0002"/>
+<grid width="4.0000"/>
+<background scale="1" />
+
+<collection unicode="U+2d">
+	<selected id="1"/>
+	<glyph id="1" left="-33.978359328726555" right="-6.9563593287265384">
+		<layer name= "Layer" visible="true">
+			<path data="S -27.97236,26.026 L -17.96236,26.026 D -11.95636,26.026 -11.95636,18.018 -17.96236,18.018 L -27.97236,18.018 D -33.97836,18.018 -33.97836,26.026 -27.97236,26.026" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2e">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="-13">
+		<layer name= "Layer" visible="true">
+			<path data="S -28,4 D -28,10 -18,10 -18,4 L -18,-18 D -18,-24 -28,-24 -28,-18 L -28,4" />
+		</layer>
+	</glyph>
+	<glyph id="1" left="-28" right="-13">
+		<layer name= "Layer" visible="true">
+			<path data="S -28,0 D -28,6 -17.99,6 -17.99,0 L -18,-18 D -18,-24 -28,-24 -28,-18 L -28,0" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+30">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="-13">
+		<layer name= "Layer" visible="true">
+			<path data="S -28,20 D -28,26 -18,26 -18,20 L -18,-4 D -18,-10 -28,-10 -28,-4 L -28,20" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+31">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="-13">
+		<layer name= "Layer" visible="true">
+			<path data="S -28,54 D -28,60 -18,60 -18,54 L -18,-4 D -18,-10 -28,-10 -28,-4 L -28,54" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+5f">
+	<selected id="0"/>
+	<glyph id="0" left="-14" right="-14">
+		<layer name= "Layer" visible="true">
+			<path data="S -10,-2 L -10,-10 L -24,-10 L -24,-2 L -10,-2" />
+			<path data="S -76.28825,66 L -76.28825,66 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6c">
+	<selected id="0"/>
+	<glyph id="0" left="-25.092793682132275" right="-11.092793682132278">
+		<layer name= "Layer" visible="true">
+			<path data="S -26.09279,-0.024 D -26.09279,5.21831 -16.09279,4.73369 -16.09279,-0.024 L -16.09279,-14.024 D -16.09279,-18.024 -22.09279,-24.024 -26.09279,-24.024 L -46.09279,-24.024 D -52.09279,-24.024 -52.09279,-14.024 -46.09279,-14.024 L -28.09279,-14.024 D -26.88253,-14.04097 -26.06515,-13.04195 -26.09279,-12.024 L -26.09279,-0.024" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+72">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="-13.011846001974334">
+		<layer name= "Layer" visible="true">
+			<path data="S -63.62093,54 L -63.62093,54 O" />
+			<path data="S -18,0 L -18,-12 D -18,-12.72027 -17.0574,-14 -16,-14 L 4,-14 D 10,-14 9.97631,-24 3.97631,-24 L -18,-24 D -22,-24 -28,-18 -28,-14 L -28,0 D -28,6 -18,6 -18,0" />
+			<path data="S 3.90128,-14 L 3.90128,-14 O" />
+			<path data="S -40,36 L -40,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+
+
+
+</font>
