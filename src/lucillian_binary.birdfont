@@ -70,8 +70,8 @@
 	<selected id="0"/>
 	<glyph id="0" left="-20" right="33">
 		<layer name= "Layer" visible="true">
-			<path data="S -15,10 M 15,10 M 15,62 M -15,62 M -15,10" />
-			<path data="S -20,67 M 20,67 M 20,5 M -20,5 M -20,67" />
+			<path data="S -15,10 L 15,10 M 15,62 M -15,62 M -15,10" />
+			<path data="S -20,67 L 20,67 M 20,5 M -20,5 M -20,67" />
 		</layer>
 	</glyph>
 </collection>
@@ -129,9 +129,12 @@
 
 <contextual ligature="substitution" backtrack="beginning" input="middle" lookahead="end" />
 
-<kerning left="0" right="l" hadjustment="8.25226" />
+<kerning left="0" right="l" hadjustment="8" />
 <kerning left="1" right="l" hadjustment="8" />
 <kerning left="0" right="." hadjustment="10" />
+<kerning left="l" right="." hadjustment="10" />
+<kerning left="." right="." hadjustment="10" />
+<kerning left="1" right="." hadjustment="10" />
 <kerning left="1" right="0" hadjustment="10" />
 <kerning left="0" right="0" hadjustment="10" />
 <kerning left="1" right="r" hadjustment="10" />
@@ -139,6 +142,7 @@
 <kerning left="." right="0" hadjustment="10" />
 <kerning left="l" right="0" hadjustment="10" />
 <kerning left="0" right="r" hadjustment="10" />
+<kerning left="." right="r" hadjustment="10" />
 <kerning left="0" right="1" hadjustment="10" />
 <kerning left="1" right="1" hadjustment="10" />
 <kerning left="." right="1" hadjustment="10" />
